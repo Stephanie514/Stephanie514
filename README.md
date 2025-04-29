@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m @Stephanie.<br><br>👀 I’m interested in working on projects that challenge my creativity, ignite my passion for problem-solving, and make a positive impact on the world.<br><br>🌱 I’m currently learning the secrets of artificial intelligence...<br><br>💞️ I’m looking to collaborate on groundbreaking projects that inspire innovation.
+👋 I’m @Stephanie.<br><br>👀 I’m interested in working on projects that challenge my creativity, ignite my passion for problem-solving, and make a positive impact on the world.<br><br>🌱 I’m currently learning the secrets of artificial intelligence and Blockchain<br><br>💞️ I’m looking to collaborate on groundbreaking projects that inspire innovation.
 
 
 # 💻 Tech Stack:
